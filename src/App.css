@@ -1,0 +1,59 @@
+.App{
+    max-width: 1620px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background: #06292e;
+}
+
+.card_cont{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.img_rick{
+    width: 100%;
+}
+.letters{
+    color: green;
+
+}
+.title{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 35px;
+ 
+}
+
+.input{
+    display: flex;
+  
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+    max-height: 1cm;
+}
+
+.list_sugg{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: rgb(0, 255, 60);
+    margin: 5px;
+    
+}
+
+.error{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 40px; 
+    color: rgb(136, 7, 7);
+}
