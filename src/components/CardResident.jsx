@@ -2,7 +2,7 @@ import axios from 'axios'
 import React from 'react'
 import { useEffect } from 'react'
 import { useState } from 'react'
-import './styles/CardResidents.css'
+import './styles/cardResidents.css'
 
 const CardResident = ({url}) => {
 
